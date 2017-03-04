@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fishpond</string>
+    <!-- Trumeet要不要翻译为鱼塘呢~ -->
+    <string name="toast_error">捕捉到一个错误</string>
+    <!-- 主题小标题。 Trumeet 5天前 -->
+    <string name="text_post_summary">%1$s %2$s</string>
+    <string name="filter_all">全部</string>
+    <string name="err_network">无法访问互联网</string>
+    <string name="title_tags">标签</string>
+    <string name="action_goto">去往</string>
+</resources>
